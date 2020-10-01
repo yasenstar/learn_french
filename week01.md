@@ -1,3 +1,5 @@
+## 见面的问候语
+
 今天学习最基础的三个词，问好和再见的常用语：
 
 | English         | French      | 发音                                                                                          | Chinese |
@@ -13,6 +15,8 @@
 |----|----|-----|
 | le | la | les |
 | de | da | des |
+
+## 进一步的打招呼用语
 
 四个进一步的词汇（谢谢在这里再加强一下）：
 
@@ -47,6 +51,8 @@ C'est oui or non? (Is it yes or no?)
 Merci pour les fleurs! (Thank you for the flowers!)
 ```
 
+## 挑战一些饮料相关的词汇
+
 更多的挑战词汇：
 
 - la boisoon (the drink, 饮料)
@@ -61,7 +67,9 @@ Merci pour les fleurs! (Thank you for the flowers!)
 - boire (the drink, 喝)
 - pluriel (plural, 复数)
 
-下面是人称词汇 –
+## 人称-单数
+
+下面是人称词汇 – 单数 (personal pronouns in the singular)
 
 - je (I)
 - tu (you)
@@ -78,3 +86,5 @@ Il est à la maison. (He is at home.)
 Ah, ben ça alors... Avec la petite Emilie? (Ah, well, how about that... with little Emilie?)
 Oui. Elle est malade, la pauvre! (Yes, She is sick, poor thing!)
 ```
+
+## 人称-复数
