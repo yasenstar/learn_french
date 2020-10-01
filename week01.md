@@ -60,3 +60,21 @@ Merci pour les fleurs! (Thank you for the flowers!)
 - le thé (the tea, 茶)
 - boire (the drink, 喝)
 - pluriel (plural, 复数)
+
+下面是人称词汇 –
+
+- je (I)
+- tu (you)
+- il (he)
+- elle (she)
+
+句子练习：
+
+```
+Salut, Diane! Tu vas bien? (Hi, Diane! Are you doing all right？)
+Oui, je suis à Paris pour le week-end. (Yes, I am in Paris for the weekend)
+Et Paul? (And Paul?)
+Il est à la maison. (He is at home.)
+Ah, ben ça alors... Avec la petite Emilie? (Ah, well, how about that... with little Emilie?)
+Oui. Elle est malade, la pauvre! (Yes, She is sick, poor thing!)
+```
