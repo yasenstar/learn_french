@@ -15,3 +15,4 @@
 | cedilla | ç   | ,  (comma) | it looks like a cedilla! |
 | circumflex | â ê î ô û | 6   | notice above the 6 key there’s a little ^ character! |
 | diaeresis | ë ï | ;  (semi-colon) | >notice the ; key is also used to type : which is a diaeresis when it falls over! |
+
