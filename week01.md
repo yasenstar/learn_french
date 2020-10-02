@@ -67,24 +67,46 @@ Merci pour les fleurs! (Thank you for the flowers!)
 - boire (the drink, 喝)
 - pluriel (plural, 复数)
 
-## 人称-单数
+## 人称-单数和复数
 
 下面是人称词汇 – 单数 (personal pronouns in the singular)
 
-- je (I)
-- tu (you)
-- il (he)
-- elle (she)
+- je (I)    nous (we)
+- tu (you)    vous (you, pl.)
+- il (he)    ils (they)
+- elle (she)    elles (they, fem.)
+
+Explanation:
+
+_Ils_ is used for groups of men, or for a mixed group of men and women.
+_Elles_ is used for a group of only women.
 
 句子练习：
 
 ```
 Salut, Diane! Tu vas bien? (Hi, Diane! Are you doing all right？)
+
 Oui, je suis à Paris pour le week-end. (Yes, I am in Paris for the weekend)
+
 Et Paul? (And Paul?)
+
 Il est à la maison. (He is at home.)
+
 Ah, ben ça alors... Avec la petite Emilie? (Ah, well, how about that... with little Emilie?)
+
 Oui. Elle est malade, la pauvre! (Yes, She is sick, poor thing!)
 ```
 
-## 人称-复数
+```
+Alors, vous allez où ce soir? (So, where are you (pl.) going tonight?)
+
+Nous allons boire un verre chez Jacques. (We are going for a drink at Jacques'.)
+
+Le bar en face de bureau? (The bar opposite the office?)
+
+Oui. Ils font de bons mojitos. (Yes. They make good mojitos.)
+
+Et Sabine et Julie... (And Sabine and Julie...)
+
+Elles adorent le mojito, je sais! (They love mojitos, I know!)
+```
