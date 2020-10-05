@@ -110,3 +110,46 @@ Et Sabine et Julie... (And Sabine and Julie...)
 
 Elles adorent le mojito, je sais! (They love mojitos, I know!)
 ```
+
+## 自我介绍
+
+```
+F: Je m'appelle Alice
+E: My name is lit. I call myself Alice.
+
+F: C'est Jérémie.
+E: This is Jérémie.
+
+F: Merci beaucoup.
+E: Thank you, very much.
+```
+
+- je suis (I am)
+- tu es (you are)
+- il/elle est (he/she is)
+- nous sommes (we are)
+- vous êtes (you are (formal and/or pl.))
+- ils/elles sons (they are)
+
+Introduce of yourself dialog:
+
+- Pardon, monsieur. La place est libre? (Pardon (me), sir. Is this seat free?)
+- Oui, bien sûr. (Yes, of course)
+- Merci beaucoup, monsieur. (Thank you very much, sir.)
+- Je m'appelle Maurice. (My name is Maurice.)
+- Je m'appelle Lola. C'est Milo, mon fils. (My name is Lola. This is Milo, my son.)
+- Enchanté. (Nice to meet you.)
+- Enchanté. (Nice to meet you.)
+
+## Simple Questions in French
+
+```
+F: Il est de Paris.
+E: He is from eParis.
+
+F: Il est de Paris?
+E: Is he from Paris?
+```
+
+Note: In French, you can change a statement into a question simply by changing the intonation. Did you notice? it goes __up__ at the end of the sentence.
+
