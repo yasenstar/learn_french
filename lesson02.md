@@ -23,7 +23,7 @@ Flashcards:
 
 ## Un vrai polyglotte !
 
-Key to learn from this part:
+### 2020-10-07 Key to learn from this part:
 
 ```
 how to tell others which language you speak.
@@ -90,3 +90,36 @@ Vous n'êtes pas de Paris. (You are not from Paris.)
 
 Je n'habite pas à Lyon. (I don't live in Lyon.)
 ```
+
+### Date: 2020/10/08
+
+Learning Point: how to tell others where you live and where you come from, the preposition à and de
+
+| French                  | English             |
+|-------------------------|---------------------|
+| Comment tu t'appelles ? | What's your name?   |
+| Tu es d'où ?            | Where are you from? |
+| Tu habites où ?         | Where do you live?  |
+| J'habite à Lisbonne.    | I live in Lisbon.   |
+
+dialogue:
+
+| French                                                        | English                                                   |
+|---------------------------------------------------------------|-----------------------------------------------------------|
+| Bonsoir, je suis Elodie. Comment tu t'appelles?               | Good evening, I'm Elodie. What's your name?               |
+| Je m'appelle Erwan. Je suis un collègue de Marc.              | My name is Erwan. I'm a colleague of Marc's.              |
+| Tu es d'où ?                                                  | Where are you from?                                       |
+| Je suis de Nantes, mail j'habite à Paris. Et toi?             | I'm from Nantes but I live in Paris. And you?             |
+| Tu habites où ?                                               | Where are you live?                                       |
+| En ce moment, j'habite à Lisbonne. II fait très claud là-bas. | At the moment I live in Lisbon. It's very hot over there. |
+| An, intéressant, une Parisienne à Lisbonne.                   | Ah, interesting, a Parisian in Lisbon.                    |
+
+By the way, _habiter_ and _parler_ are conjegated the same way. They both belong to group 1 of regular verbs that end in _er_ in the infinitive:
+
+- j'habite
+- tu habites
+- il/elle habite
+- nous habitons
+- vous habitez
+- ils/elles habitent
+
