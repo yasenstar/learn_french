@@ -2,7 +2,7 @@
 
 Tombent, tombent les feuilles rousses.
 
-J'entends la pluie sur la jmousse.
+J'entends la pluie sur la mousse.
 
 Tombent, tombent les feuilles molles,
 
@@ -20,7 +20,7 @@ J'entends l'hiver à ma porte.
 
 Fall, fall the red leaves,
 
-I hear the rain on the form.
+I hear the rain on the moss.
 
 Fall, fall the soft leaves,
 
@@ -38,7 +38,7 @@ I hear winter at my doorstep.
 
 红色的叶子落啊落。
 
-我听到雨滴成泡沫。
+我听到雨滴在青苔上。
 
 柔软的叶子落啊落，
 
