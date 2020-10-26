@@ -123,5 +123,20 @@ By the way, _habiter_ and _parler_ are conjegated the same way. They both belong
 - vous habitez
 - ils/elles habitent
 
-### Date 2020-10-14
+### Date 2020-10-24
+
+Combien coûtent les bières? (How much do the beers cost?)
+
+Ça coûte dix euros treize. (That costs ten euros thirteen.)
+
+Douze euros pour des cacahètes et des olives?! (Twelve euros for some peanuts and some olives?!)
+
+Tu prends un vin rouge ou une bière ? (Will you have a red wine or a beer?)
+
+Je demande l'addition. (I'll ask (for) the check.)
+
+Il y a des olives ou des chips? (Are there any olives or chips?)
+
+Les cocktails coûtent treize euros. (The cocktails cost thirteen euros.)
+
 
