@@ -168,5 +168,5 @@ Sample:
 - il/elle __fait__
 - nous __faisons__
 - vous __faites__
-- - ils/elles __font__
+- ils/elles __font__
 
