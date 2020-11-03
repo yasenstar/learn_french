@@ -139,4 +139,34 @@ Il y a des olives ou des chips? (Are there any olives or chips?)
 
 Les cocktails coûtent treize euros. (The cocktails cost thirteen euros.)
 
+### Date 2020-11-03 Un boulot en or ! Part 1
+
+A dream job!
+
+Qu'est-ce que tu fais dans la vie ? (What do you do for a living)
+
+Je suis étudian (I'm student)
+
+Je fais un stage (I'm doing an intership)
+
+C'est passionnant (It's exciting)
+
+===Grammer===
+
+Do you remember the 3rd group of verbs? It is made up of _irregular_ verbs ending in _-ir, -re_ and _oir_.
+
+The endings are _usually_ irregular, but the stem of the verb can be irregular too. It's best to learn them by heart.
+
+__attend__re - j'__attend__s
+
+__dorm__ir - je __dor__s
+
+Sample:
+
+- je __fais__
+- tu __fais__
+- il/elle __fait__
+- nous __faisons__
+- vous __faites__
+- - ils/elles __font__
 
