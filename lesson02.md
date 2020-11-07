@@ -170,3 +170,21 @@ Sample:
 - vous __faites__
 - ils/elles __font__
 
+## 2020-11-06
+
+Vous etes collegues ! (You're collegues!)
+
+Je suis professeur / prof (I'm (a) teacher)
+
+On travaille ensemble (We work together)
+
+Tu es toujours informatician? (Are you still an IT specialist?)
+
+- On fait du sport dimanche.
+
+Job - same in both _masculine_ and _feminine_ forms:
+
+- le professeur = la professeur (the teacher)
+- le journaliste = la journaliste (the journalist)
+- le stagiaire = la stagiaire (the intern)
+- 
