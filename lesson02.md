@@ -187,4 +187,7 @@ Job - same in both _masculine_ and _feminine_ forms:
 - le professeur = la professeur (the teacher)
 - le journaliste = la journaliste (the journalist)
 - le stagiaire = la stagiaire (the intern)
-- 
+
+
+## 2020-11-12
+
