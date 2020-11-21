@@ -37,7 +37,6 @@ Learning points:
 - vous __avez__
 - ils/elles __ont__
 
-
 Sample:
 
 - Tu as 12 ans. (You are 12 years old)
@@ -46,11 +45,8 @@ Sample:
 - Il a deux numéros. (He has two numbers.)
 - Nous avons des olives. (We have olives.)
 - Elles ont mon âge. (They are (lit. have) my age.)
-- 
-
 
 _Unlike in English, in French you use the vers avoir (to have) to say how old someone is._
-
 
 #### Numbering
 
@@ -65,4 +61,3 @@ _Unlike in English, in French you use the vers avoir (to have) to say how old so
 - 21 = vingt et un / vingt-et-un
 - _With 21, 32, 41, 52, 61 and et un or -et-un (and one) is attached._
 - _Both forms are correct._
-
